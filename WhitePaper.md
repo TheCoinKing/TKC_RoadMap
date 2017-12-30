@@ -70,5 +70,4 @@
 
 
 
-
-what did you expect? jk. whitepaper will be updated later!
+whitepaper will be updated soon!
