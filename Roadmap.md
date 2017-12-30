@@ -24,6 +24,7 @@ Q2
 - preDCB Payments
 	- allow !pay !withdraw !deposit !info in discord
 	- allow !pay <TKZ> for ranks
+	
 Q3
 
 Q4
