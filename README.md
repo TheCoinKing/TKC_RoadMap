@@ -1,3 +1,4 @@
 # TKC_RoadMap
 The road-map for TheCoinKing
-![alt text](http://url/to/img.png)
+![](https://imgur.com/rw08n5x)
+![](https://i.imgur.com/rw08n5x.png)
