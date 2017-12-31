@@ -1,30 +1,25 @@
 # TKC_RoadMap
 The road-map for TheCoinKing
 
-Q1
-- Release (Planned Release Jan 3 2018)
+
+Q1 | 2018 // 12/31/2017
+- Official Release Of TKC 
+	- Wallet Release
+		- windows wallet
+		- linux wallet
 	- Block Explorer
-	- Windows Wallet
-	- Linux Wallet
+	- Airdrop Form
+	- Auction 1 TKC
+		- this will be used to get on stocks.exchange
+	- stocks.exchange
+	- coinsmarket
 	
-- Airdrop
-- Bounties
-- Missions
-	
-- Exchange
-primary: Stocks.Exchange Cost: 0.2 BTC
-secondary: CoinsMarket Cost: 0.05 BTC - 0,1 BTC
-
-Q2
-- Website
-	- Public domain 
-- Leaderboard
-	- Show top 3 owners(updated every month)
-	
-- preDCB Payments
-	- allow !pay !withdraw !deposit !info in discord
-	- allow !pay <TKZ> for ranks
-	
-Q3
-
-Q4
+Q2 | 2018 // 12/31/2017
+- preANN website
+	- whitepaper
+	- full roadmap
+- preANN leaderboard
+	- simple page with top 3 owners
+- preANN DCBP (Discord Bot Payments)
+	- beta 0.1.0 v
+	- !pay, !deposit !withdraw !donate
